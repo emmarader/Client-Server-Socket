@@ -1,0 +1,13 @@
+2022-10-11 20:20:11, 374 - INFO - Socket successfully created. Logfile: clientlog
+
+2022-10-11 20:20:18, 205 - INFO - Sending Message to Server.
+
+2022-10-11 20:20:18, 207 - INFO - The message was sent to server: network
+
+2022-10-11 20:20:18, 210 - INFO - Socket Binded to 3389
+
+2022-10-11 20:20:18, 210 - INFO - Waiting for Reply From Server...
+
+2022-10-11 20:20:18, 226 - INFO - Received a Reply From Server. Hello ('74.193.66.146', 55255)
+
+2022-10-11 20:20:18, 228 - INFO - network is a good secret word
